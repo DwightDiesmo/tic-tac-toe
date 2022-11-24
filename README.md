@@ -9,6 +9,7 @@ This is a project that was completed as part of the MITx Full-Stack Developer Bo
 
 ### Roadmap of future improvements: 
 - Score board to keep track of how many wins X has and how many wins O has would be nice
+- I'd like it to create a pop-up indicating who won instead of text on the bottom and then prompt the user to reset the board with a button. 
 - Better styling
 
 ### License information:
